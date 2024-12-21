@@ -29,12 +29,19 @@
 
 .footer-contato li a {
   color: #fff;
+  padding: 20px 0px;
 }
 
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
   color: #8f8f8f;
+}
+
+.footer-copy a {
+  color: #fff;
+  padding: 20px 0px;
+  text-decoration: none;
 }
 
 @media (max-width: 800px) {
